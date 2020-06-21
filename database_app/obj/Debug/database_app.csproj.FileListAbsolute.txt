@@ -1,0 +1,14 @@
+C:\Users\alucard\source\repos\database_app\database_app\obj\Debug\database_app.csprojAssemblyReference.cache
+C:\Users\alucard\source\repos\database_app\database_app\obj\Debug\MainWindow.g.cs
+C:\Users\alucard\source\repos\database_app\database_app\obj\Debug\App.g.cs
+C:\Users\alucard\source\repos\database_app\database_app\obj\Debug\database_app_MarkupCompile.cache
+C:\Users\alucard\source\repos\database_app\database_app\obj\Debug\database_app_MarkupCompile.lref
+C:\Users\alucard\source\repos\database_app\database_app\bin\Debug\database_app.exe.config
+C:\Users\alucard\source\repos\database_app\database_app\bin\Debug\database_app.exe
+C:\Users\alucard\source\repos\database_app\database_app\bin\Debug\database_app.pdb
+C:\Users\alucard\source\repos\database_app\database_app\obj\Debug\MainWindow.baml
+C:\Users\alucard\source\repos\database_app\database_app\obj\Debug\database_app.g.resources
+C:\Users\alucard\source\repos\database_app\database_app\obj\Debug\database_app.Properties.Resources.resources
+C:\Users\alucard\source\repos\database_app\database_app\obj\Debug\database_app.csproj.GenerateResource.cache
+C:\Users\alucard\source\repos\database_app\database_app\obj\Debug\database_app.exe
+C:\Users\alucard\source\repos\database_app\database_app\obj\Debug\database_app.pdb
